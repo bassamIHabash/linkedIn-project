@@ -1,7 +1,7 @@
 # LinkedIn Profile Project – Bassam Habash
 
 ## LinkedIn Profile URL
-https://www.linkedin.com/in/bassam-habash/
+www.linkedin.com/in/bassam-habash-132ab2114
 
 ## LinkedIn Post
 🚀 Investing in Yourself While Life Keeps Moving
